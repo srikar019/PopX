@@ -65,7 +65,7 @@ function CreateAccount() {
           </label>
           <input
             id="reg-email"
-            type="email"
+            type="text"
             name="email"
             placeholder="Marry Doe"
             value={formData.email}
